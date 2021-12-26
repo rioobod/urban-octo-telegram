@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*changed div class header to header element and edited CSS accordingly*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*changed div class footer to footer element and edited CSS accordingly*/
 footer {
     padding: 30px;
     clear: both;
