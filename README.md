@@ -7,3 +7,4 @@ Ensure that elements follow a logical structure independent of styling and posit
 Include accessible alt attributes to image elements.
 Verify that the heading attributes fall in sequential order.
 Provide concise and, descriptive title element.
+![Capture](https://user-images.githubusercontent.com/95100285/147861308-13c12195-0989-49ad-95fd-c9a59f79125d.PNG)
